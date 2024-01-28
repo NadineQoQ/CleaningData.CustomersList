@@ -18,4 +18,4 @@ This Python script utilizes Pandas to clean and preprocess a customer call list 
 
 2. **Run the Script:**
    ```python
-"CleaningData.CustomersList.ipynb"
+CleaningData.CustomersList.ipynb
